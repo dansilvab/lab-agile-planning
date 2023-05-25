@@ -1,7 +1,8 @@
 ---
 name: User Story
-about: This template is for creating stories, describe the story (business value,
-  assumptions and details and the criteria to define it as done)
+about: 'This template is for creating user stories, defining a business value to be
+  added, details and assumptions helpful for developers, and the criteria to mark
+  it as done '
 title: ''
 labels: ''
 assignees: ''
